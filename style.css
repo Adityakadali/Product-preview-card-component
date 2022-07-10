@@ -52,7 +52,10 @@ img {
 }
 
 .product-details {
-  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 30px;
   height: 450px;
   width: 50%;
   background-color: var(--nuetral-white);
