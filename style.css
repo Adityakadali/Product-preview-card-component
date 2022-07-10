@@ -19,7 +19,11 @@
 
 html,
 body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   background-color: var(--primary-cream);
+  height: 100vh;
 }
 
 .wraper {
@@ -27,7 +31,7 @@ body {
   flex-wrap: wrap;
   width: 600px;
   height: 450px;
-  margin: 50px auto;
+  margin: auto;
   align-items: center;
 }
 
