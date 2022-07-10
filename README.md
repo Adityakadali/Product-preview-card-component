@@ -44,4 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-Learnt to use responsive images and meadia queries most effectively.
+- Learnt to use responsive images and meadia queries most effectively.
+- flexbox
+- CSS variables
+
